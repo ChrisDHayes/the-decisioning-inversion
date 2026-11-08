@@ -33,11 +33,11 @@ The laboratory uses synthetic scenarios and allows readers to configure AI contr
 
 | Exhibit | Core question | Interactive chapter |
 | --- | --- | --- |
-| [01 · The Decisioning Inversion](./exhibits/01_The_Decisioning_Inversion.svg) | How does decision architecture change? | [Act I](./index.html#act-1) |
-| [02 · Distributed Intelligence Surfaces](./exhibits/02_Distributed_Intelligence_Surfaces.svg) | Where can AI contribute? | [Act II](./index.html#act-2) |
-| [03 · Coordination & Productive Friction](./exhibits/03_Coordination_and_Productive_Friction.svg) | When does connection create shared risk? | [Act III](./index.html#act-3) |
-| [04 · Authority–Intelligence Boundary](./exhibits/04_Authority_Intelligence_Boundary.svg) | Who has the right to decide or execute? | [Act IV](./index.html#act-4) |
-| [05 · Institutional Learning Loop](./exhibits/05_Institutional_Learning_Loop.svg) | What can we learn from a decision? | [Act V](./index.html#act-5) |
+| [01 · The Decisioning Inversion](./exhibits/01_The_Decisioning_Inversion.svg) | How does decision architecture change? | [Act I](https://ChrisDHayes.github.io/the-decisioning-inversion/#act-1) |
+| [02 · Distributed Intelligence Surfaces](./exhibits/02_Distributed_Intelligence_Surfaces.svg) | Where can AI contribute? | [Act II](https://ChrisDHayes.github.io/the-decisioning-inversion/#act-2) |
+| [03 · Coordination & Productive Friction](./exhibits/03_Coordination_and_Productive_Friction.svg) | When does connection create shared risk? | [Act III](https://ChrisDHayes.github.io/the-decisioning-inversion/#act-3) |
+| [04 · Authority–Intelligence Boundary](./exhibits/04_Authority_Intelligence_Boundary.svg) | Who has the right to decide or execute? | [Act IV](https://ChrisDHayes.github.io/the-decisioning-inversion/#act-4) |
+| [05 · Institutional Learning Loop](./exhibits/05_Institutional_Learning_Loop.svg) | What can we learn from a decision? | [Act V](https://ChrisDHayes.github.io/the-decisioning-inversion/#act-5) |
 
 ## Evidence discipline
 
