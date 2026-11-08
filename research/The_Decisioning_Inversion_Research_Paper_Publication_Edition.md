@@ -232,48 +232,28 @@ The real question is not how fast we can make existing decisions. It is which de
 
 ## References and primary sources
 
-[1] Simon, H. A. A Behavioral Model of Rational Choice (1955). https://doi.org/10.2307/1884852
+[1] Simon, H. A. *A Behavioral Model of Rational Choice* (1955). https://doi.org/10.2307/1884852  
+[2] Galbraith, J. R. *Organization Design: An Information Processing View* (1974). https://doi.org/10.1287/inte.4.3.28  
+[3] Coase, R. H. *The Nature of the Firm* (1937). https://doi.org/10.1111/j.1468-0335.1937.tb00002.x  
+[4] CIRO. *Client Focused Reforms (CFRs)*. https://www.ciro.ca/firms/current-members/dealer-compliance/client-focused-reforms-cfrs  
+[5] CIRO. *Know-your-client and suitability determination for retail clients*. https://www.ciro.ca/newsroom/publications/know-your-client-and-suitability-determination-retail-clients  
+[6] CSA and CIRO. *Staff Notice 31-368: Client Focused Reforms — Review of Registrants' Practices and Additional Guidance* (2025). https://www.ciro.ca/newsroom/publications/joint-canadian-securities-administrators-canadian-investment-regulatory-organization-staff-notice-31-0  
+[7] CIRO. *Guidance Respecting Order Execution Only Accounts as a Form of Third-Party Electronic Access to Marketplaces* (2026). https://www.ciro.ca/newsroom/publications/guidance-respecting-order-execution-only-accounts-form-third-party-electronic-access-marketplaces-0  
+[8] CIRO. *Service arrangements between Dealer Members and Portfolio Managers*. https://www.ciro.ca/newsroom/publications/service-arrangements-between-dealer-members-and-portfolio-managers-0  
+[9] CIRO. *Account Supervision Guidance*. https://www.ciro.ca/newsroom/publications/account-supervision-guidance  
+[10] Office of the Privacy Commissioner of Canada. *Principles for Responsible, Trustworthy and Privacy-Protective Generative AI Technologies*. https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/  
+[11] CSA. *Staff Notice 11-348 — Use of AI Systems in Capital Markets* (2024). https://www.securities-administrators.ca/news/canadian-securities-administrators-issue-guidance-and-consult-on-use-of-ai-systems-in-capital-markets/  
+[12] CIRO. *Compliance Report for 2026: Helping Dealers with Compliance*. https://www.ciro.ca/newsroom/publications/ciro-compliance-report-2026-helping-dealers-compliance  
+[13] NIST. *AI Risk Management Framework*. https://airc.nist.gov/airmf-resources/airmf/5-sec-core/  
+[14] Vaccaro, M., Almaatouq, A., & Malone, T. *When combinations of humans and AI are useful: A systematic review and meta-analysis* (2024). https://www.nature.com/articles/s41562-024-02024-1  
+[15] Brynjolfsson, E., Li, D., & Raymond, L. *Generative AI at Work* (2025). https://doi.org/10.1093/qje/qjae044  
+[16] Bainbridge, L. *Ironies of Automation* (1983). https://doi.org/10.1016/0005-1098(83)90046-8  
+[17] Elish, M. C. *Moral Crumple Zones* (2019). https://doi.org/10.17351/ESTS2019.260  
+[18] Kim, E. M. et al. *Correlated Errors in Large Language Models* (ICML/PMLR, 2025). https://proceedings.mlr.press/v267/kim25e.html  
+[19] Bank of England & Financial Conduct Authority. *Artificial intelligence in UK financial services — 2026* (26 October 2026). https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026  
+[20] NIST. *Design Tenets for Agent Identity Management Systems* (27 October 2026). https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems
 
-[2] Galbraith, J. R. Organization Design: An Information Processing View (1974). https://doi.org/10.1287/inte.4.3.28
-
-[3] Coase, R. H. The Nature of the Firm (1937). https://doi.org/10.1111/j.1468-0335.1937.tb00002.x
-
-[4] CIRO. Client Focused Reforms (CFRs). https://www.ciro.ca/firms/current-members/dealer-compliance/client-focused-reforms-cfrs
-
-[5] CIRO. Know-your-client and suitability determination for retail clients. https://www.ciro.ca/newsroom/publications/know-your-client-and-suitability-determination-retail-clients
-
-[6] CSA and CIRO. Staff Notice 31-368: Client Focused Reforms — Review of Registrants' Practices and Additional Guidance (2025). https://www.ciro.ca/newsroom/publications/joint-canadian-securities-administrators-canadian-investment-regulatory-organization-staff-notice-31-0
-
-[7] CIRO. Guidance Respecting Order Execution Only Accounts as a Form of Third-Party Electronic Access to Marketplaces (2026). https://www.ciro.ca/newsroom/publications/guidance-respecting-order-execution-only-accounts-form-third-party-electronic-access-marketplaces-0
-
-[8] CIRO. Service arrangements between Dealer Members and Portfolio Managers. https://www.ciro.ca/newsroom/publications/service-arrangements-between-dealer-members-and-portfolio-managers-0
-
-[9] CIRO. Account Supervision Guidance. https://www.ciro.ca/newsroom/publications/account-supervision-guidance
-
-[10] Office of the Privacy Commissioner of Canada. Principles for Responsible, Trustworthy and Privacy-Protective Generative AI Technologies. https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/
-
-[11] CSA. Staff Notice 11-348 — Use of AI Systems in Capital Markets (2024). https://www.securities-administrators.ca/news/canadian-securities-administrators-issue-guidance-and-consult-on-use-of- ai-systems-in-capital-markets/
-
-[12] CIRO. Compliance Report for 2026: Helping Dealers with Compliance. https://www.ciro.ca/newsroom/publications/ciro-compliance-report-2026-helping-dealers-compliance
-
-[13] NIST. AI Risk Management Framework. https://airc.nist.gov/airmf-resources/airmf/5-sec-core/
-
-[14] Vaccaro, M., Almaatouq, A., & Malone, T. When combinations of humans and AI are useful: A systematic review and meta-analysis (2024). https://www.nature.com/articles/s41562-024-02024-1
-
-[15] Brynjolfsson, E., Li, D., & Raymond, L. Generative AI at Work (2025). https://doi.org/10.1093/qje/qjae044
-
-[16] Bainbridge, L. Ironies of Automation (1983). https://doi.org/10.1016/0005-1098(83)90046-8
-
-[17] Elish, M. C. Moral Crumple Zones (2019). https://doi.org/10.17351/ESTS2019.260
-
-[18] Kim, E. M. et al. Correlated Errors in Large Language Models (ICML/PMLR, 2025). https://proceedings.mlr.press/v267/kim25e.html
-
-[19] Bank of England & Financial Conduct Authority. Artificial intelligence in UK financial services — 2026 (26 October 2026). https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026
-
-[20] NIST. Design Tenets for Agent Identity Management Systems (27 October 2026). https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems
-
-Scope note: This document is a research and design synthesis. It is not legal, compliance, investment or regulatory advice. Proposed rights allocations and AI autonomy levels are illustrative; implementation requires review against current law, dealer rules, registration, account types, agreements, policies, and supervision arrangements.
-
+*Scope note: This document is a research and design synthesis. It is not legal, compliance, investment or regulatory advice. Proposed rights allocations and AI autonomy levels are illustrative; implementation requires review against current law, dealer rules, registration, account types, agreements, policies, and supervision arrangements.*
 
 ## Five conceptual exhibits
 
