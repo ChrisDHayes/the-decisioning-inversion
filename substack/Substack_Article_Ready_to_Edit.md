@@ -28,9 +28,9 @@ But if the cost of analysis falls, other costs don't vanish. Verification, judgm
 
 **EXHIBIT 1 — The Decisioning Inversion**
 
-![The Decisioning Inversion](../exhibits/01_The_Decisioning_Inversion.png)
+![The Decisioning Inversion](../exhibits/01_The_Decisioning_Inversion.svg)
 
-*What changes when intelligence moves from a sequence of human handoffs toward multiple decision surfaces? [Explore the inherited institution in the interactive experience](../locked_v3_2/index.html#act-1).*
+*What changes when intelligence moves from a sequence of human handoffs toward multiple decision surfaces? [Explore the inherited institution in the interactive experience](../index.html#act-1).*
 
 ## 2. AI isn't one new colleague. It can appear everywhere.
 
@@ -46,9 +46,9 @@ The design challenge is not simply **where can we add AI?** It's **how do these 
 
 **EXHIBIT 2 — Distributed Intelligence Surfaces**
 
-![Distributed Intelligence Surfaces](../exhibits/02_Distributed_Intelligence_Surfaces.png)
+![Distributed Intelligence Surfaces](../exhibits/02_Distributed_Intelligence_Surfaces.svg)
 
-*Six illustrative places intelligence can operate. Their contributions differ; their decision rights remain bounded. [Explore distributed intelligence](../locked_v3_2/index.html#act-2).*
+*Six illustrative places intelligence can operate. Their contributions differ; their decision rights remain bounded. [Explore distributed intelligence](../index.html#act-2).*
 
 ## 3. A more connected institution can also become a more fragile one.
 
@@ -66,9 +66,9 @@ I call the better objective **governed pluralism**: reliable common facts, indep
 
 **EXHIBIT 3 — Coordination & Productive Friction**
 
-![Coordination and Productive Friction](../exhibits/03_Coordination_and_Productive_Friction.png)
+![Coordination and Productive Friction](../exhibits/03_Coordination_and_Productive_Friction.svg)
 
-*Remove the handoff that adds no value. Preserve the challenge that protects someone. Redesign the new risks created by AI. [Explore friction and shared failures](../locked_v3_2/index.html#act-3).*
+*Remove the handoff that adds no value. Preserve the challenge that protects someone. Redesign the new risks created by AI. [Explore friction and shared failures](../index.html#act-3).*
 
 ## 4. Being able to act isn't the same as being allowed to act.
 
@@ -84,9 +84,9 @@ NIST's [October 2026 design tenets for agent identity](https://www.nist.gov/blog
 
 **EXHIBIT 4 — The Authority–Intelligence Boundary**
 
-![Authority–Intelligence Boundary](../exhibits/04_Authority_Intelligence_Boundary.png)
+![Authority–Intelligence Boundary](../exhibits/04_Authority_Intelligence_Boundary.svg)
 
-*The authority boundary isn't a disclaimer. It needs to change what the system can actually do. [Explore the authority challenge](../locked_v3_2/index.html#act-4).*
+*The authority boundary isn't a disclaimer. It needs to change what the system can actually do. [Explore the authority challenge](../index.html#act-4).*
 
 ## 5. More recommendations aren't the same as better decisions.
 
@@ -102,9 +102,9 @@ A meaningful learning system needs to distinguish verified facts from inference,
 
 **EXHIBIT 5 — The Institutional Learning Loop**
 
-![The Institutional Learning Loop](../exhibits/05_Institutional_Learning_Loop.png)
+![The Institutional Learning Loop](../exhibits/05_Institutional_Learning_Loop.svg)
 
-*The output of a decision system should not be merely an action. It should also be evidence that helps the institution learn. [Explore evidence and learning](../locked_v3_2/index.html#act-5).*
+*The output of a decision system should not be merely an action. It should also be evidence that helps the institution learn. [Explore evidence and learning](../index.html#act-5).*
 
 ## The question I think leaders should be asking
 
@@ -114,7 +114,7 @@ It seems entirely possible that organizations will distribute AI into dozens of 
 
 The risk is that we make existing machinery faster while keeping its old blind spots—and introduce some new ones.
 
-That was my motivation for building **[The Decisioning Twin](../locked_v3_2/index.html#thesis)**, an interactive, synthetic research experience. It lets a reader follow a client event through human-centred and AI-supported institutional structures; activate intelligence at different surfaces; inspect conflicts and control boundaries; and ask why an apparently reasonable recommendation might still need to be challenged.
+That was my motivation for building **[The Decisioning Twin](../index.html#thesis)**, an interactive, synthetic research experience. It lets a reader follow a client event through human-centred and AI-supported institutional structures; activate intelligence at different surfaces; inspect conflicts and control boundaries; and ask why an apparently reasonable recommendation might still need to be challenged.
 
 The wealth management dealer is the case study, not the limit of the argument. The same tensions appear wherever intelligence can influence decisions that affect other people.
 
@@ -123,3 +123,7 @@ The wealth management dealer is the case study, not the limit of the argument. T
 ---
 
 *Research note: The five exhibits are original conceptual frameworks. The interactive examples are synthetic, not observations of actual clients or evidence of achieved operational or investment performance. External research supports the surrounding claims but does not validate the simulation itself. Current publication draft: 7 November 2026.*
+
+---
+
+*GitHub reading edition: exhibit links use accessible SVG renditions and interactive chapter links point to the locked root `index.html`. For a Substack post, upload the original PNG masters and replace relative links with the confirmed GitHub Pages URL. The original manuscript remains in the downloadable publication package.*
