@@ -1,14 +1,12 @@
 # The Decisioning Inversion
 
-> Publication reading edition, prepared from the 15-page Word/PDF research paper. Original formatting and figures are available in the separately distributed publication package. Synthetic examples are not empirical measurements.
+*We built organizations around human intelligence. What happens when intelligence can be distributed, continuous, and increasingly capable of acting?*
 
-acting?
+> Publication reading edition prepared from the original paper; the formatted Word/PDF copies are available in the release package.
 
 *Christopher Hayes, CDAIO, MPS DAV, MBAN, MSc AI (Boston University) Candidate*
 
-*Research and publication edition | 7 November 2026 | Wealth management dealer case*
-
-study; implications across sectors
+*Research and publication edition | 7 November 2026 | Wealth management dealer case study; implications across sectors*
 
 ## Executive summary — what is being tested
 
