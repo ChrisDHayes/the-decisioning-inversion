@@ -1,34 +1,31 @@
-# Publication links and exhibit placement map
+# Publication link map
 
-## Locked interactive experience
+The repository root is the locked Decisioning Twin V3.2 website (`index.html`). The five conceptual exhibits have **SVG web renditions** in `exhibits/`; the publication ZIP also includes the original PNG/SVG masters and formatted DOCX/PDF files.
 
-The HTML is copied byte-for-byte to `locked_v3_2/index.html` for publishing. Its SHA-256 is in `locked_v3_2/LOCK_MANIFEST.txt`.
+| Framework | GitHub figure | Interactive chapter | Interpretive question |
+| --- | --- | --- | --- |
+| 1. Decisioning Inversion | [SVG](../exhibits/01_The_Decisioning_Inversion.svg) | [Act I](../index.html#act-1) | Why do inherited institutions look this way? |
+| 2. Distributed Intelligence Surfaces | [SVG](../exhibits/02_Distributed_Intelligence_Surfaces.svg) | [Act II](../index.html#act-2) | Where can AI contribute without inheriting authority? |
+| 3. Coordination & Productive Friction | [SVG](../exhibits/03_Coordination_and_Productive_Friction.svg) | [Act III](../index.html#act-3) | When can connection also create correlated failure? |
+| 4. Authority–Intelligence Boundary | [SVG](../exhibits/04_Authority_Intelligence_Boundary.svg) | [Act IV](../index.html#act-4) | Who may recommend, authorize or execute? |
+| 5. Institutional Learning Loop | [SVG](../exhibits/05_Institutional_Learning_Loop.svg) | [Act V](../index.html#act-5) | How are decisions challenged and improved? |
 
-Local links (relative to research or Substack Markdown) are usable inside the downloaded folder. **Substack needs public absolute HTTPS links**: after you publish the included `locked_v3_2/index.html` to a live GitHub Pages URL, replace local relative links in the article with that URL plus the relevant fragment.
+## Public page address after Pages activation
 
-| Exhibit | Image | In-experience destination | Narrative question |
-|---|---|---|---|
-| 1 | `exhibits/01_The_Decisioning_Inversion.png` | `#act-1` | Why does the inherited architecture exist? |
-| 2 | `exhibits/02_Distributed_Intelligence_Surfaces.png` | `#act-2` | Where can AI act as intelligence, not authority? |
-| 3 | `exhibits/03_Coordination_and_Productive_Friction.png` | `#act-3` | When does connection become a liability? |
-| 4 | `exhibits/04_Authority_Intelligence_Boundary.png` | `#act-4` | Who can decide or execute? |
-| 5 | `exhibits/05_Institutional_Learning_Loop.png` | `#act-5` | What can we learn from the evidence? |
+The expected project URL is `https://ChrisDHayes.github.io/the-decisioning-inversion/`. This **is not a verified live URL until GitHub Pages is enabled**.
 
-### Deep link template
+Once Pages deployment is confirmed, the durable chapter deep links will be:
 
-If GitHub Pages serves your file at `https://YOUR-ACCOUNT.github.io/YOUR-REPO/`, use:
+- `https://ChrisDHayes.github.io/the-decisioning-inversion/#thesis`
+- `https://ChrisDHayes.github.io/the-decisioning-inversion/#act-1` to `#act-5`
+- `https://ChrisDHayes.github.io/the-decisioning-inversion/#lab`
+- `https://ChrisDHayes.github.io/the-decisioning-inversion/#authority`
 
-- `https://YOUR-ACCOUNT.github.io/YOUR-REPO/#thesis`
-- `https://YOUR-ACCOUNT.github.io/YOUR-REPO/#act-1` through `#act-5`
-- `https://YOUR-ACCOUNT.github.io/YOUR-REPO/#lab` for free exploration
-- `https://YOUR-ACCOUNT.github.io/YOUR-REPO/#authority` for the decision challenge inspector
+## For the Substack editor
 
-**This is only a template; no URL has been invented or published for your account.**
+The [GitHub reading edition](../substack/Substack_Article_Ready_to_Edit.md) uses relative SVG images and local chapter links. Before publication in Substack:
+1. Upload the original high-resolution PNG images supplied in the publication ZIP.
+2. Replace the local chapter links with the **confirmed** GitHub Pages absolute URLs.
+3. Keep the source links and caveats: the exhibits and simulator outcomes are original hypotheses and synthetic demonstrations, not empirically measured effects.
 
-### Substack image handling
-
-Upload the five `.png` images to the Substack editor. Markdown-relative images are convenient source placeholders but will not automatically become hosted Substack images when pasted. Use captions already included in the article. The SVG versions are editable masters for GitHub and future adaptation.
-
-### Editorial note
-
-All five diagrams are original conceptual frameworks. Do not label their arrows, colors or stages as observed data. External sources support the propositions in prose, not the design as an empirically tested dealer system.
+Research and authored graphics © 2026 Christopher Hayes.
